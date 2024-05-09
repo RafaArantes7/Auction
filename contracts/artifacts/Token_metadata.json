@@ -736,11 +736,11 @@
 	},
 	"sources": {
 		"contracts/TokenZeppelin.sol": {
-			"keccak256": "0x06ef560baa9f6b01764779a1f063ce9dcfc6632b1ad2685d5d91e3622fcc4cbb",
+			"keccak256": "0xe12564f1da7855b5b7a704e85861e4f17a7df6a70ca1f3c20262d090be47cbdb",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://adecd445ac2cb09953ecf685c744fe877899bee51e18d89332cb52a4bad5b76d",
-				"dweb:/ipfs/QmbqLKLvvN55YiiP6YrVPUKZFBY24A76fYhscU1W6bT25W"
+				"bzz-raw://e6ff06984726a2f51a000ad22812b557fb6a73eba8d088f0678ca2fcb3fa9887",
+				"dweb:/ipfs/QmQDjV98fqL3cMUCuYkG2tPLK1m6nuqhKDa1foha3vvk8a"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/AccessControl.sol": {
